@@ -1,4 +1,4 @@
-# Site settings
+# Hemadri Pali -PLM Developer @ ZF Group
 title: Hemadri
 twitter_username: hemadri-lab
 name: Hemadri Pali
